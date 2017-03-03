@@ -40,3 +40,4 @@ angular.module("app", []).controller('s1_nav_controller', function($scope){
       text: "I like travel in freetime. Place i visited: HoiAn , NhaTrang, Singapore, HoChiMinh, QuyNhon..."
     }]
   });
+//spinner

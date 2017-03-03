@@ -177,6 +177,19 @@
 <!-- Footer -->
 <footer class="full-footer" ng-include="'template_minify/footer.html'"></footer>
 <!-- // Footer -->
+<section style="position: fixed;width: 100%;height: 100%;z-index: 9999;background: #e15676;top:0;text-align: center" id="t_spinner">
+    <div class="sk-cube-grid">
+        <div class="sk-cube sk-cube1"></div>
+        <div class="sk-cube sk-cube2"></div>
+        <div class="sk-cube sk-cube3"></div>
+        <div class="sk-cube sk-cube4"></div>
+        <div class="sk-cube sk-cube5"></div>
+        <div class="sk-cube sk-cube6"></div>
+        <div class="sk-cube sk-cube7"></div>
+        <div class="sk-cube sk-cube8"></div>
+        <div class="sk-cube sk-cube9"></div>
+    </div>
+</section>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -187,7 +200,9 @@
 <script src="js/imagelightbox.min.js"></script>
 <script src="js/agl.js"></script>
 <script>
-
+  setTimeout(function () {
+    $("#t_spinner").addClass("hidden-spinner");
+  },1200);
 </script>
 </body>
 </html>
