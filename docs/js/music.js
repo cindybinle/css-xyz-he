@@ -17,7 +17,7 @@ jQuery(function ($) {
   if (supportsAudio) {
     var index = 0,
       playing = false,
-      mediaPath = 'music/',
+      mediaPath = 'https://thuanitdn.github.io/music/',
       extension = '',
       tracks = [{
         "track": 1,

@@ -2,23 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e7bdf6-685e-49fd-9603-dcefa5a8fd48" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/music/1.mp3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/music.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/music.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/music.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/education.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/experience.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/porfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/skill.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_2/social.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gulpfile.js" afterPath="$PROJECT_DIR$/docs/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index_original.html" afterPath="$PROJECT_DIR$/docs/index_original.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/template/nav.html" afterPath="$PROJECT_DIR$/docs/template/nav.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/music/1.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/music/2.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/music/3.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/music/4.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/music/5.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/music/6.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/music/7.mp3" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/js/music.js" afterPath="$PROJECT_DIR$/docs/js/music.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="8050" lean-forward="false" selection-start-line="0" selection-start-column="8050" selection-end-line="0" selection-end-column="8050" />
+              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -74,17 +66,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="music.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="music.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/js/music.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1490153601688" expanded="true" signature="599:4147" ph="{...}" />
-                <marker date="1490153601688" expanded="true" signature="691:4145" ph="{...}" />
-                <marker date="1490153601688" expanded="true" signature="801:932" ph="{&quot;name&quot;: &quot;Chuyện Giàn Thiên Lý  Chuyện Hoa Sim&quot;...}" />
-                <marker date="1490153601688" expanded="true" signature="1461:1587" ph="{&quot;name&quot;: &quot;Về Bên Cha - Hoài Lâm&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -201,12 +189,12 @@
         <option value="$PROJECT_DIR$/docs/music_original.html" />
         <option value="$PROJECT_DIR$/docs/css/music.css" />
         <option value="$PROJECT_DIR$/docs/music.html" />
-        <option value="$PROJECT_DIR$/docs/js/music.js" />
         <option value="$PROJECT_DIR$/docs/template/footer.html" />
         <option value="$PROJECT_DIR$/docs/template/nav.html" />
         <option value="$PROJECT_DIR$/docs/gulpfile.js" />
         <option value="$PROJECT_DIR$/docs/index_original.html" />
         <option value="$PROJECT_DIR$/docs/index.html" />
+        <option value="$PROJECT_DIR$/docs/js/music.js" />
       </list>
     </option>
   </component>
@@ -269,6 +257,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css-xyz-he" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css-xyz-he" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template_minify_3" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -280,7 +286,7 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../music" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
@@ -361,7 +367,7 @@
       <workItem from="1488528065824" duration="3795000" />
       <workItem from="1488535860036" duration="1906000" />
       <workItem from="1490088292062" duration="645000" />
-      <workItem from="1490149638518" duration="4816000" />
+      <workItem from="1490149638518" duration="5848000" />
     </task>
     <task id="LOCAL-00001" summary="ud">
       <created>1488516947773</created>
@@ -437,13 +443,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14908000" />
+    <option name="totallyTimeSpent" value="15940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26091763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26091763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -710,20 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/js/music.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="37" column="19" lean-forward="false" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1490153601688" expanded="true" signature="599:4147" ph="{...}" />
-            <marker date="1490153601688" expanded="true" signature="691:4145" ph="{...}" />
-            <marker date="1490153601688" expanded="true" signature="801:932" ph="{&quot;name&quot;: &quot;Chuyện Giàn Thiên Lý  Chuyện Hoa Sim&quot;...}" />
-            <marker date="1490153601688" expanded="true" signature="1461:1587" ph="{&quot;name&quot;: &quot;Về Bên Cha - Hoài Lâm&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/template/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -780,13 +772,23 @@
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="8050" lean-forward="false" selection-start-line="0" selection-start-column="8050" selection-end-line="0" selection-end-column="8050" />
+          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#article#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#article#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/js/music.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
