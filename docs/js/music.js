@@ -59,6 +59,11 @@ jQuery(function ($) {
         "name": "Phút đầu tiên - Nguyên Lê, Quỳnh Dung",
         "length": "4:42",
         "file": "8"
+      },{
+        "track": 9,
+        "name": "Sông Quê - Khánh Bình",
+        "length": "6:13",
+        "file": "9"
       }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
