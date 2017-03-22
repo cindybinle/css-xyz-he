@@ -309,14 +309,30 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover { backgro
 }
 
 .crossfade > figure:nth-child(6) {
-    animation-delay: 24s;
+    animation-delay: 28s;
     background:linear-gradient(#4CB8C4,#3CD3AD);
 }
 
 .crossfade > figure:nth-child(7) {
-    animation-delay: 24s;
+    animation-delay: 32s;
     background:linear-gradient(#134E5E,#71B280);
 }
+
+.crossfade > figure:nth-child(8) {
+    animation-delay: 36s;
+    background:linear-gradient(#AA076B,#61045F);
+}
+
+.crossfade > figure:nth-child(9) {
+    animation-delay: 40s;
+    background:linear-gradient(#FF512F,#DD2476);
+}
+
+.crossfade > figure:nth-child(10) {
+    animation-delay: 44s;
+    background:linear-gradient(#F09819,#EDDE5D);
+}
+
 @keyframes
 imageAnimation {  0% {
     animation-timing-function: ease-in;
