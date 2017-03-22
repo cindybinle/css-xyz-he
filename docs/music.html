@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="robots" content="index, follow"/>
+    <title>Thuan Le | Music Player</title>
+    <meta name="description" content="Favorite music playlist of Thuan Le">
+    <meta name="keywords" content="music, favorite music, thuanle">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="css/music.css">
+    <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+</head>
+<body>
+<div class="container">
+    <div class="column center">
+        <h1>MUSIC</h1>
+        <h6>favorite playlist</h6>
+    </div>
+    <div class="column add-bottom">
+        <div id="mainwrap">
+            <div id="nowPlay">
+                <span class="left" id="npAction">Paused...</span>
+                <span class="right" id="npTitle"></span>
+            </div>
+            <div id="audiowrap">
+                <div id="audio0">
+                    <audio preload autoplay id="audio1" controls="controls">Your browser does not support HTML5 Audio!</audio>
+                </div>
+                <div id="tracks">
+                    <a id="btnPrev" class="ion-chevron-left"></a>
+                    <a id="btnNext" class="ion-chevron-right"></a>
+                </div>
+            </div>
+            <div id="plwrap">
+                <ul id="plList"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="column add-bottom center">
+        <p style="color: black">Created by Thuan Le</p>
+    </div>
+</div>
+<div class="crossfade">
+    <figure></figure>
+    <figure></figure>
+    <figure></figure>
+    <figure></figure>
+    <figure></figure>
+    <figure></figure>
+    <figure></figure>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="js/music.js"></script>
+</body>
+</html>
