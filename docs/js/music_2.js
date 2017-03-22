@@ -64,6 +64,11 @@ jQuery(function ($) {
         "name": "Sông Quê - Khánh Bình",
         "length": "6:13",
         "file": "9"
+      },{
+        "track": 10,
+        "name": "Sen Hồng Hư Không - Nam Du",
+        "length": "4:34",
+        "file": "10"
       }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
