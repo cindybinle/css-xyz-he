@@ -54,6 +54,11 @@ jQuery(function ($) {
         "name": "Nối Lại Tình Xưa - Hoài Lâm",
         "length": "4:15",
         "file": "7"
+      },{
+        "track": 8,
+        "name": "Phút đầu tiên - Nguyên Lê, Quỳnh Dung",
+        "length": "4:42",
+        "file": "8"
       }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
