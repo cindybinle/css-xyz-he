@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e7bdf6-685e-49fd-9603-dcefa5a8fd48" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/music.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/education.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/experience.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/nav.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/porfolio.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/skill.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/template_minify_4/social.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/education.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/experience.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/gallery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/porfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/skill.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/template_minify_3/social.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/gulpfile.js" afterPath="$PROJECT_DIR$/docs/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index_original.html" afterPath="$PROJECT_DIR$/docs/index_original.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/music.html" afterPath="$PROJECT_DIR$/docs/music.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/template/nav.html" afterPath="$PROJECT_DIR$/docs/template/nav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,6 +31,22 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="8050" lean-forward="false" selection-start-line="0" selection-start-column="8050" selection-end-line="0" selection-end-column="8050" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#article#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#article#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="music.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/css/music.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index_original.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index_original.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/index_original.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="250" column="39" lean-forward="true" selection-start-line="250" selection-start-column="39" selection-end-line="250" selection-end-column="39" />
+            <state relative-caret-position="170">
+              <caret line="242" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="276" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -143,12 +137,12 @@
         <option value="$PROJECT_DIR$/docs/music_original.html" />
         <option value="$PROJECT_DIR$/docs/css/music.css" />
         <option value="$PROJECT_DIR$/docs/template/footer.html" />
-        <option value="$PROJECT_DIR$/docs/index.html" />
         <option value="$PROJECT_DIR$/docs/js/music.js" />
         <option value="$PROJECT_DIR$/docs/music.html" />
         <option value="$PROJECT_DIR$/docs/template/nav.html" />
         <option value="$PROJECT_DIR$/docs/gulpfile.js" />
         <option value="$PROJECT_DIR$/docs/index_original.html" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
       </list>
     </option>
   </component>
@@ -164,9 +158,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="-4" />
+    <option name="y" value="24" />
     <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -183,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,7 +224,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -324,7 +318,8 @@
       <workItem from="1490149638518" duration="6074000" />
       <workItem from="1490156195104" duration="261000" />
       <workItem from="1490158193760" duration="672000" />
-      <workItem from="1490164653313" duration="242000" />
+      <workItem from="1490164653313" duration="259000" />
+      <workItem from="1490165076909" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="ud">
       <created>1488516947773</created>
@@ -417,17 +412,24 @@
       <option name="project" value="LOCAL" />
       <updated>1490158854890</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ud">
+      <created>1490164900765</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1490164900765</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17341000" />
+    <option name="totallyTimeSpent" value="17388000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27086788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27418464" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -719,13 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/js/music.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
@@ -771,10 +766,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index_original.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="250" column="39" lean-forward="true" selection-start-line="250" selection-start-column="39" selection-end-line="250" selection-end-column="39" />
+        <state relative-caret-position="170">
+          <caret line="242" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="276" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8050" lean-forward="false" selection-start-line="0" selection-start-column="8050" selection-end-line="0" selection-end-column="8050" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#article#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#article#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
