@@ -51,7 +51,7 @@ jQuery(function ($) {
           "file": "6"
         },{
         "track": 7,
-        "name": "Nối Lại Tình Xưa - Hoài Lâmm",
+        "name": "Nối Lại Tình Xưa - Hoài Lâm",
         "length": "4:15",
         "file": "7"
       }
