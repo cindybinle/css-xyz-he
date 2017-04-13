@@ -69,6 +69,16 @@ jQuery(function ($) {
         "name": "Sen Hồng Hư Không - Nam Du",
         "length": "4:34",
         "file": "10"
+      },{
+        "track": 11,
+        "name": "Thuyền Hoa - Hoài Lâm",
+        "length": "4:40",
+        "file": "11"
+      },{
+        "track": 12,
+        "name": "Phải Lòng Con Gái Bến Tre - Tố My",
+        "length": "5:56",
+        "file": "12"
       }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
