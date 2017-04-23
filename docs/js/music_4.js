@@ -79,7 +79,12 @@ jQuery(function ($) {
         "name": "Phải Lòng Con Gái Bến Tre - Tố My",
         "length": "5:56",
         "file": "12"
-      }
+      },{
+          "track": 13,
+          "name": "Thói Đời - Hoài Lâm",
+          "length": "4:27",
+          "file": "13"
+        }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
         var trackNumber = value.track,
