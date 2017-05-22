@@ -84,7 +84,12 @@ jQuery(function ($) {
           "name": "Thói Đời - Hoài Lâm",
           "length": "4:27",
           "file": "13"
-        }
+        },{
+        "track": 14,
+        "name": "Trước Ngày Hội Bắn - Anh Thơ, Việt Hoàn",
+        "length": "5:58",
+        "file": "14"
+      }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
         var trackNumber = value.track,
