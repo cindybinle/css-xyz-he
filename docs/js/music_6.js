@@ -19,12 +19,13 @@ jQuery(function ($) {
       playing = false,
       mediaPath = 'https://thuanitdn.github.io/music/',
       extension = '',
-      tracks = [{
-        "track": 1,
-        "name": "Chuyện Giàn Thiên Lý  Chuyện Hoa Sim",
-        "length": "8:54",
-        "file": "1"
-      },{
+      tracks = [
+        {
+          "track": 1,
+          "name": "Trước Ngày Hội Bắn - Anh Thơ, Việt Hoàn",
+          "length": "5:58",
+          "file": "14"
+        },{
         "track": 2,
         "name": "Xin Gọi Nhau Là Cố Nhân - Bằng Kiều, Quang Lê, Đan Nguyên",
         "length": "5:07",
@@ -84,12 +85,12 @@ jQuery(function ($) {
           "name": "Thói Đời - Hoài Lâm",
           "length": "4:27",
           "file": "13"
-        },{
-        "track": 14,
-        "name": "Trước Ngày Hội Bắn - Anh Thơ, Việt Hoàn",
-        "length": "5:58",
-        "file": "14"
-      }
+        }, {
+          "track": 14,
+          "name": "Chuyện Giàn Thiên Lý  Chuyện Hoa Sim",
+          "length": "8:54",
+          "file": "1"
+        }
       ],
       buildPlaylist = $.each(tracks, function(key, value) {
         var trackNumber = value.track,
