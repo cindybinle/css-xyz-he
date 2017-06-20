@@ -21,6 +21,12 @@ jQuery(function ($) {
       extension = '',
       tracks = [
         {
+          "track": 0,
+          "name": "Đắp Mộ Cuộc Tình - Lê Sang",
+          "length": "5:21",
+          "file": "15"
+        },
+        {
           "track": 1,
           "name": "Trước Ngày Hội Bắn - Anh Thơ, Việt Hoàn",
           "length": "5:58",
