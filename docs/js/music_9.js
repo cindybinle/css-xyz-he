@@ -17,7 +17,7 @@ var lyrics = [
   {
     "name": "12 Gio - Ha Anh Tuan [MP3 320kbps]",
     "length": "3:41",
-    "file": "16"
+    "file": "21"
   },
   {
     "name": "Hoa Nang - Hoang Hai [MP3 320kbps]",
