@@ -15,28 +15,36 @@ b.setAttribute('data-platform', navigator.platform);
 
 var lyrics = [
   {
+    "name": "12 Gio - Ha Anh Tuan [MP3 320kbps]",
+    "length": "3:41",
+    "file": "16"
+  },
+  {
+    "name": "Hoa Nang - Hoang Hai [MP3 320kbps]",
+    "length": "4:15",
+    "file": "17"
+  },
+  {
+    "name": "Anh Nho Em - Tuan Hung [MP3 320kbps]",
+    "length": "4:15",
+    "file": "18"
+  },
+  {
+    "name": "Noi Tinh Yeu Bat Dau - Bang Kieu_ Lam An [MP3 320kbps]",
+    "length": "4:15",
+    "file": "19"
+  },
+  {
+    "name": "Anh Khac Hay Em Khac - Khac Viet [MP3 320kbps",
+    "length": "4:15",
+    "file": "20"
+  },
+  {
     "name": "Đắp Mộ Cuộc Tình - Lê Sang",
     "length": "5:21",
     "file": "15"
   },
-  {
-    "name": "Gặp Nhau Làm Ngơ - Hoài Lâm",
-    "length": "4:05",
-    "file": "16"
-  },
-  {
-    "name": "Trước Ngày Hội Bắn - Anh Thơ, Việt Hoàn",
-    "length": "5:58",
-    "file": "14"
-  }, {
-    "name": "Xin Gọi Nhau Là Cố Nhân - Bằng Kiều, Quang Lê, Đan Nguyên",
-    "length": "5:07",
-    "file": "2"
-  }, {
-    "name": "Phượng Hồng - Bằng Kiều",
-    "length": "6:05",
-    "file": "3"
-  }, {
+ {
     "name": "Ngại Ngùng - Hoài Lâm",
     "length": "4:44",
     "file": "4"
@@ -45,41 +53,9 @@ var lyrics = [
     "length": "5:41",
     "file": "5"
   }, {
-    "name": "Về Bên Cha - Hoài Lâm",
-    "length": "5:26",
-    "file": "6"
-  }, {
     "name": "Nối Lại Tình Xưa - Hoài Lâm",
     "length": "4:15",
     "file": "7"
-  }, {
-    "name": "Phút đầu tiên - Nguyên Lê, Quỳnh Dung",
-    "length": "4:42",
-    "file": "8"
-  }, {
-    "name": "Sông Quê - Khánh Bình",
-    "length": "6:13",
-    "file": "9"
-  }, {
-    "name": "Sen Hồng Hư Không - Nam Du",
-    "length": "4:34",
-    "file": "10"
-  }, {
-    "name": "Thuyền Hoa - Hoài Lâm",
-    "length": "4:40",
-    "file": "11"
-  }, {
-    "name": "Phải Lòng Con Gái Bến Tre - Tố My",
-    "length": "5:56",
-    "file": "12"
-  }, {
-    "name": "Thói Đời - Hoài Lâm",
-    "length": "4:27",
-    "file": "13"
-  }, {
-    "name": "Chuyện Giàn Thiên Lý  Chuyện Hoa Sim",
-    "length": "8:54",
-    "file": "1"
   }
 ];
 
