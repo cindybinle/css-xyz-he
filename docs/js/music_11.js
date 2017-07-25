@@ -56,6 +56,11 @@ var lyrics = [
     "name": "Nối Lại Tình Xưa - Hoài Lâm",
     "length": "4:15",
     "file": "7"
+  },
+  {
+    "name": "Gặp nhau làm ngơ - Hoài Lâm",
+    "length": "4:15",
+    "file": "16"
   }
 ];
 
