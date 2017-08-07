@@ -44,6 +44,11 @@ var lyrics = [
     "length": "5:21",
     "file": "15"
   },
+  {
+    "name": "Tình Đẹp Mùa Chôm Chôm - Hồ Việt Trung",
+    "length": "5:26",
+    "file": "22"
+  },
  {
     "name": "Ngại Ngùng - Hoài Lâm",
     "length": "4:44",
