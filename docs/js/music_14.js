@@ -49,6 +49,11 @@ var lyrics = [
     "length": "5:26",
     "file": "22"
   },
+  {
+    "name": "Tình xuân - Mạnh Đình",
+    "length": "5:25",
+    "file": "23"
+  },
  {
     "name": "Ngại Ngùng - Hoài Lâm",
     "length": "4:44",
