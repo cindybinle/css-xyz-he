@@ -15,29 +15,14 @@ b.setAttribute('data-platform', navigator.platform);
 
 var lyrics = [
   {
-    "name": "12 Gio - Ha Anh Tuan [MP3 320kbps]",
-    "length": "3:41",
-    "file": "21"
+    "name": "Có Buồn Nào Buồn Hơn | Hồ Việt Trung ft Âu Nam Thái",
+    "length": "6:08",
+    "file": "24"
   },
   {
-    "name": "Hoa Nang - Hoang Hai [MP3 320kbps]",
-    "length": "4:15",
-    "file": "17"
-  },
-  {
-    "name": "Anh Nho Em - Tuan Hung [MP3 320kbps]",
-    "length": "4:15",
-    "file": "18"
-  },
-  {
-    "name": "Noi Tinh Yeu Bat Dau - Bang Kieu_ Lam An [MP3 320kbps]",
-    "length": "4:15",
-    "file": "19"
-  },
-  {
-    "name": "Anh Khac Hay Em Khac - Khac Viet [MP3 320kbps",
-    "length": "4:15",
-    "file": "20"
+    "name": "Hãy Quên Anh | Hồ Việt Trung",
+    "length": "5:02",
+    "file": "25"
   },
   {
     "name": "Đắp Mộ Cuộc Tình - Lê Sang",
@@ -71,6 +56,31 @@ var lyrics = [
     "name": "Gặp nhau làm ngơ - Hoài Lâm",
     "length": "4:15",
     "file": "16"
+  },
+  {
+    "name": "12 Gio - Ha Anh Tuan [MP3 320kbps]",
+    "length": "3:41",
+    "file": "21"
+  },
+  {
+    "name": "Hoa Nang - Hoang Hai [MP3 320kbps]",
+    "length": "4:15",
+    "file": "17"
+  },
+  {
+    "name": "Anh Nho Em - Tuan Hung [MP3 320kbps]",
+    "length": "4:15",
+    "file": "18"
+  },
+  {
+    "name": "Noi Tinh Yeu Bat Dau - Bang Kieu_ Lam An [MP3 320kbps]",
+    "length": "4:15",
+    "file": "19"
+  },
+  {
+    "name": "Anh Khac Hay Em Khac - Khac Viet [MP3 320kbps",
+    "length": "4:15",
+    "file": "20"
   }
 ];
 
