@@ -20,6 +20,11 @@ var lyrics = [
     "file": "24"
   },
   {
+    "name": "Lá Thư Đô Thị  Hồ Việt Trung ft Khưu Huy Vũ",
+    "length": "6:02",
+    "file": "26"
+  },
+  {
     "name": "Hãy Quên Anh | Hồ Việt Trung",
     "length": "5:02",
     "file": "25"
