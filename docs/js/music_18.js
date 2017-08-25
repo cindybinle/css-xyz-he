@@ -32,7 +32,7 @@ var lyrics = [
   {
     "name": "Đắp Mộ Cuộc Tình - Lê Sang",
     "length": "5:21",
-    "file": "15"
+    "file": "28"
   },
   {
     "name": "Tình Đẹp Mùa Chôm Chôm - Hồ Việt Trung",
