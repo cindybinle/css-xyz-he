@@ -15,6 +15,11 @@ b.setAttribute('data-platform', navigator.platform);
 
 var lyrics = [
   {
+    "name": "Nhật Ký Đời Tôi  Hồ Việt Trung",
+    "length": "6:02",
+    "file": "29"
+  },
+  {
     "name": "Có Buồn Nào Buồn Hơn | Hồ Việt Trung ft Âu Nam Thái",
     "length": "6:08",
     "file": "24"
