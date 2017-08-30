@@ -15,8 +15,13 @@ b.setAttribute('data-platform', navigator.platform);
 
 var lyrics = [
   {
+    "name": "Tôi Vẫn Cô Đơn  Hồ Việt Trung",
+    "length": "5:02",
+    "file": "30"
+  },
+  {
     "name": "Nhật Ký Đời Tôi  Hồ Việt Trung",
-    "length": "6:02",
+    "length": "5:01",
     "file": "29"
   },
   {
