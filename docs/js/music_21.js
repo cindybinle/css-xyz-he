@@ -45,6 +45,11 @@ var lyrics = [
     "file": "28"
   },
   {
+    "name": "Ai Cho Toi Tinh Yeu - Ho Viet Trung [256kbps_MP3]",
+    "length": "5:00",
+    "file": "31"
+  },
+  {
     "name": "Tình Đẹp Mùa Chôm Chôm - Hồ Việt Trung",
     "length": "5:26",
     "file": "22"
