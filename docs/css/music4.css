@@ -114,7 +114,7 @@ p a,p a:visited { line-height:inherit; }
 
 /* Default / Desktop / Firefox */
 audio { margin:0 15px 0 14px; width:670px; }
-#mainwrap { box-shadow:0 0 6px 1px rgba(0,0,0,.25); }
+#mainwrap { box-shadow:0 0 6px 1px rgba(0,0,0,.25);position: relative;color:black }
 #audiowrap { background-color:#231F20; margin:0 auto; }
 #plwrap { margin:0 auto; }
 #tracks { position:relative; text-align:center; }
@@ -210,13 +210,13 @@ html[data-useragent*="OS 9"] .plSel:hover { background-color:#eee!important; }
 /* Chrome */
 html[data-useragent*="Chrome"] body { color:#5a5a5a; }
 html[data-useragent*="Chrome"] audio { margin-left:9px; width:677px; }
-html[data-useragent*="Chrome"] #audiowrap { background-color:#fafafa; }
-html[data-useragent*="Chrome"] a[id^="btn"] { background-color:#fafafa; color:#5a5a5a; }
-html[data-useragent*="Chrome"] a[id^="btn"]:hover { background-color:#eee; }
-html[data-useragent*="Chrome"] #plList li { background-color:#fafafa; }
-html[data-useragent*="Chrome"] #plList li:hover { background-color:#eee; }
+html[data-useragent*="Chrome"] #audiowrap { background-color:transparent; }
+html[data-useragent*="Chrome"] a[id^="btn"] { background-color:transparent; color:black; }
+html[data-useragent*="Chrome"] a[id^="btn"]:hover { background-color:transparent; }
+html[data-useragent*="Chrome"] #plList li { background-color:transparent; }
+html[data-useragent*="Chrome"] #plList li:hover { background-color:#eee; opacity: 0.5}
 html[data-useragent*="Chrome"] .plSel,
-html[data-useragent*="Chrome"] .plSel:hover { background-color:#eee!important; }
+html[data-useragent*="Chrome"] .plSel:hover { background-color:transparent!important; }
 
 /* Chrome / Android / Tablet */
 html[data-useragent*="Chrome"][data-useragent*="Android"] body { color:#373837; }
