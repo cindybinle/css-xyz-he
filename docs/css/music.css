@@ -61,7 +61,11 @@ html,body {
     font:20px/24px "Yanone Kaffeesatz", HelveticaNeue, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight:300;
     padding:5px 0;
-    background: linear-gradient(#93a5cf, #e4efe9);
+    background: url("../img/bg_music.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 * {
