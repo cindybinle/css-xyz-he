@@ -315,6 +315,30 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover { backgro
     background-image: url('../img/bg_5.jpg');
 }
 
+.crossfade > figure:nth-child(6) {
+    animation-delay: 28s;
+    background-image: url('../img/bg_6.jpg');
+}
+
+
+.crossfade > figure:nth-child(7) {
+    animation-delay: 32s;
+    background-image: url('../img/bg_7.jpg');
+}
+
+
+.crossfade > figure:nth-child(8) {
+    animation-delay: 38s;
+    background-image: url('../img/bg_8.jpg');
+}
+
+
+.crossfade > figure:nth-child(9) {
+    animation-delay: 44s;
+    background-image: url('../img/bg_9.jpg');
+}
+
+
 
 @keyframes
 imageAnimation {  0% {
