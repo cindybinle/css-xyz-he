@@ -286,7 +286,7 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover { backgro
     height: 100%;
     left: -40px;
     opacity: 0;
-    position: absolute;
+    position: fixed;
     top: -40px;
     width: 100%;
     z-index: 0;

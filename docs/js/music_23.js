@@ -52,7 +52,7 @@ var lyrics = [
   {
     "name": "Đắp Mộ Cuộc Tình - Lê Sang",
     "length": "5:21",
-    "file": "28"
+    "file": "34"
   },
   {
     "name": "Ai Cho Toi Tinh Yeu - Ho Viet Trung [256kbps_MP3]",
