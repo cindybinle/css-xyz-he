@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64e7bdf6-685e-49fd-9603-dcefa5a8fd48" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/css/music8.css" afterPath="$PROJECT_DIR$/docs/css/music9.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/js/music_22.js" afterPath="$PROJECT_DIR$/docs/js/music_23.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_10.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_11.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_12.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_14.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_15.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_16.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/bg_19.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/img/bg_9.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/docs/css/music9.css" afterPath="$PROJECT_DIR$/docs/css/music10.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/music.html" afterPath="$PROJECT_DIR$/docs/music.html" />
     </list>
@@ -46,28 +64,28 @@
       <file leaf-file-name="music_23.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/js/music_23.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="918">
               <caret line="52" column="41" lean-forward="false" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="music9.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/css/music9.css">
+      <file leaf-file-name="music10.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/css/music10.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="288" column="19" lean-forward="false" selection-start-line="288" selection-start-column="19" selection-end-line="288" selection-end-column="19" />
+            <state relative-caret-position="71">
+              <caret line="315" column="1" lean-forward="true" selection-start-line="315" selection-start-column="1" selection-end-line="315" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="music.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="music.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/music.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="396">
+              <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -103,7 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/docs/index.js" />
         <option value="$PROJECT_DIR$/experience.html" />
         <option value="$PROJECT_DIR$/social.html" />
         <option value="$PROJECT_DIR$/education.html" />
@@ -147,13 +164,14 @@
         <option value="$PROJECT_DIR$/docs/css/music.css" />
         <option value="$PROJECT_DIR$/docs/css/music1.css" />
         <option value="$PROJECT_DIR$/docs/css/music2.css" />
-        <option value="$PROJECT_DIR$/docs/music.html" />
         <option value="$PROJECT_DIR$/docs/css/music3.css" />
         <option value="$PROJECT_DIR$/docs/js/music_21.js" />
         <option value="$PROJECT_DIR$/docs/css/music5.css" />
         <option value="$PROJECT_DIR$/docs/index.html" />
         <option value="$PROJECT_DIR$/docs/js/music_22.js" />
         <option value="$PROJECT_DIR$/docs/css/music8.css" />
+        <option value="$PROJECT_DIR$/docs/music.html" />
+        <option value="$PROJECT_DIR$/docs/css/music10.css" />
       </list>
     </option>
   </component>
@@ -188,6 +206,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,6 +265,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css-xyz-he" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css-xyz-he" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -253,7 +290,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,7 +422,8 @@
       <workItem from="1505707770056" duration="33000" />
       <workItem from="1505794917611" duration="331000" />
       <workItem from="1505807674206" duration="138000" />
-      <workItem from="1507172078438" duration="176000" />
+      <workItem from="1507172078438" duration="206000" />
+      <workItem from="1507175543677" duration="149000" />
     </task>
     <task id="LOCAL-00001" summary="ud">
       <created>1488516947773</created>
@@ -689,17 +726,24 @@
       <option name="project" value="LOCAL" />
       <updated>1505698652337</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="ud">
+      <created>1507172263521</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1507172263521</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26856000" />
+    <option name="totallyTimeSpent" value="27035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22166944" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22443339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -984,24 +1028,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/js/music_23.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="918">
           <caret line="52" column="41" lean-forward="false" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/css/music9.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="288" column="19" lean-forward="false" selection-start-line="288" selection-start-column="19" selection-end-line="288" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/music.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="396">
+          <caret line="22" column="21" lean-forward="false" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/music10.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="315" column="1" lean-forward="true" selection-start-line="315" selection-start-column="1" selection-end-line="315" selection-end-column="1" />
           <folding />
         </state>
       </provider>
