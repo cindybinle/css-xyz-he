@@ -25,6 +25,11 @@ var lyrics = [
     "file": "33"
   },
   {
+    "name": "Giọt Lệ Đài Trang - Hồ Việt Trung",
+    "length": "6:02",
+    "file": "43"
+  },
+  {
     "name": "Tôi Vẫn Cô Đơn  Hồ Việt Trung",
     "length": "5:02",
     "file": "30"
