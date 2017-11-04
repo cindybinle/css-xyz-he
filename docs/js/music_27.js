@@ -52,7 +52,7 @@ var lyrics = [
    {
     "name": "Chiếc Áo Bà Ba | Hồ Việt Trung",
     "length": "6:02",
-    "file": "42"
+    "file": "45"
   },
   {
     "name": "Có Buồn Nào Buồn Hơn | Hồ Việt Trung ft Âu Nam Thái",
