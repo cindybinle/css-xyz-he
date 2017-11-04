@@ -35,6 +35,21 @@ var lyrics = [
     "file": "29"
   },
   {
+    "name": "Tình Dại Khờ | Hồ Việt Trung",
+    "length": "4:53",
+    "file": "40"
+  },
+  {
+    "name": "Trong Tầm Mắt Đời | Hồ Việt Trung",
+    "length": "5:04",
+    "file": "41"
+  },
+   {
+    "name": "Chiếc Áo Bà Ba | Hồ Việt Trung",
+    "length": "6:02",
+    "file": "42"
+  },
+  {
     "name": "Có Buồn Nào Buồn Hơn | Hồ Việt Trung ft Âu Nam Thái",
     "length": "6:08",
     "file": "24"
