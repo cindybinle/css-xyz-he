@@ -25,6 +25,11 @@ var lyrics = [
     "file": "33"
   },
   {
+      "name": "Nhớ Nhau Hoài  Hồ Việt Trung",
+      "length": "5:02",
+      "file": "46"
+  },
+  {
     "name": "Giọt Lệ Đài Trang - Hồ Việt Trung",
     "length": "6:02",
     "file": "44"
