@@ -15,6 +15,11 @@ b.setAttribute('data-platform', navigator.platform);
 
 var lyrics = [
   {
+    "name": "Tình Có Như Không  Hồ Việt Trung",
+    "length": "5:02",
+    "file": "48"
+  },
+  {
     "name": "Một Mình Thôi  Hồ Việt Trung",
     "length": "5:02",
     "file": "32"
@@ -23,6 +28,11 @@ var lyrics = [
     "name": "Con Đường Xưa Em Đi  Hồ Việt Trung",
     "length": "5:02",
     "file": "33"
+  },
+  {
+    "name": "Đôi Ngã Chia Ly - Hồ Việt Trung",
+    "length": "5:02",
+    "file": "47"
   },
   {
       "name": "Nhớ Nhau Hoài  Hồ Việt Trung",
