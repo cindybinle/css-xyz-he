@@ -159,6 +159,7 @@ jQuery(function ($) {
   var supportsAudio = !!document.createElement('audio').canPlayType;
   if (supportsAudio) {
     var index = 0,
+      repeat= false,
       playing = false,
       mediaPath = 'https://thuanitdn.github.io/music/',
       extension = '',
@@ -186,7 +187,9 @@ jQuery(function ($) {
       }).bind('ended', function () {
         npAction.text('Paused...');
         if ((index + 1) < trackCount) {
-          index++;
+          if(repeat == false){
+            index++;
+          }
           loadTrack(index);
           audio.play();
         } else {
@@ -219,6 +222,15 @@ jQuery(function ($) {
           audio.pause();
           index = 0;
           loadTrack(index);
+        }
+      }),
+      btnRepeat = $('#btnRepeat').click(function () {
+        repeat= !repeat;
+        if(repeat == true){
+          $('#btnRepeat').css({color: '#dc7979'});
+        }
+        else{
+          $('#btnRepeat').css({color: 'black'});
         }
       }),
       li = $('#plList li').click(function () {
