@@ -153,8 +153,6 @@ lyrics.map(function (obj, index) {
   obj.track = index + 1;
 });
 
-console.log(lyrics);
-
 jQuery(function ($) {
   var supportsAudio = !!document.createElement('audio').canPlayType;
   if (supportsAudio) {
@@ -181,6 +179,8 @@ jQuery(function ($) {
       audio = $('#audio1').bind('play', function () {
         playing = true;
         npAction.text('Now Playing...');
+        npAction.removeClass('animated pulse infinite');
+        npAction.addClass('animated pulse infinite');
       }).bind('pause', function () {
         playing = false;
         npAction.text('Paused...');

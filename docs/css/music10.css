@@ -293,54 +293,54 @@ html[data-useragent*="Chrome"][data-useragent*="Android"] .plSel:hover { backgro
     padding-bottom: 50px;
 }
 
-.crossfade > figure:nth-child(1) { background-image: url('../img/bg_10.jpeg'); }
+.crossfade > figure:nth-child(1) { background-image: url('../img/bg_20.jpg'); }
 
 .crossfade > figure:nth-child(2) {
     animation-delay: 6s;
-    background-image: url('../img/bg_11.jpeg');
+    background-image: url('../img/bg_21.png');
 }
 
 .crossfade > figure:nth-child(3) {
     animation-delay: 12s;
-    background-image: url('../img/bg_12.jpeg');
+    background-image: url('../img/bg_22.jpg');
 }
 
 .crossfade > figure:nth-child(4) {
     animation-delay: 18s;
-    background-image: url('../img/bg_13.jpg');
+    background-image: url('../img/bg_23.jpg');
 }
 
 .crossfade > figure:nth-child(5) {
     animation-delay: 24s;
-    background-image: url('../img/bg_14.jpeg');
+    background-image: url('../img/bg_24.jpg');
 }
 
 .crossfade > figure:nth-child(6) {
     animation-delay: 28s;
-    background-image: url('../img/bg_15.jpeg');
+    background-image: url('../img/bg_25.jpg');
 }
 
 
 .crossfade > figure:nth-child(7) {
     animation-delay: 32s;
-    background-image: url('../img/bg_16.jpeg');
+    background-image: url('../img/bg_26.jpg');
 }
 
 
 .crossfade > figure:nth-child(8) {
     animation-delay: 38s;
-    background-image: url('../img/bg_17.jpg');
+    background-image: url('../img/bg_27.png');
 }
 
 
 .crossfade > figure:nth-child(9) {
     animation-delay: 44s;
-    background-image: url('../img/bg_18.jpg');
+    background-image: url('../img/bg_28.jpg');
 }
 
 .crossfade > figure:nth-child(9) {
     animation-delay: 48s;
-    background-image: url('../img/bg_18.jpg');
+    background-image: url('../img/bg_29.png');
 }
 
 
