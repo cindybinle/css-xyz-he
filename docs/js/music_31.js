@@ -25,6 +25,11 @@ var lyrics = [
     "file": "32"
   },
   {
+    "name": "Trộm Nhìn Nhau - Hoài Lâm",
+    "length": "5:02",
+    "file": "49"
+  },
+  {
     "name": "Con Đường Xưa Em Đi  Hồ Việt Trung",
     "length": "5:02",
     "file": "33"
